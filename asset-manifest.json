@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Color-Lights/static/css/main.0ad26c73.css",
+    "main.js": "/Color-Lights/static/js/main.dc55db25.js",
+    "static/js/787.1bc06b98.chunk.js": "/Color-Lights/static/js/787.1bc06b98.chunk.js",
+    "index.html": "/Color-Lights/index.html",
+    "main.0ad26c73.css.map": "/Color-Lights/static/css/main.0ad26c73.css.map",
+    "main.dc55db25.js.map": "/Color-Lights/static/js/main.dc55db25.js.map",
+    "787.1bc06b98.chunk.js.map": "/Color-Lights/static/js/787.1bc06b98.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0ad26c73.css",
+    "static/js/main.dc55db25.js"
+  ]
+}
